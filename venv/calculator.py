@@ -14,7 +14,7 @@ def divide(a, b):
         return "Error: Division by zero is not allowed."
 
 def calculator():
-    print("Welcome to the Python Calculator!")
+    print("Welcome to Pytobear's Calculator!")
     print("Select an operation:")
     print("1. Add")
     print("2. Subtract")
